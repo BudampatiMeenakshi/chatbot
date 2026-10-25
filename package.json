@@ -1,0 +1,9 @@
+{
+  "name": "rag-chatbot-root",
+  "private": true,
+  "description": "RAG Document Chatbot Root Runner",
+  "scripts": {
+    "start": "cmd /c start.bat",
+    "dev": "cmd /c start.bat"
+  }
+}
